@@ -1,0 +1,27 @@
+#reg-img{
+    float:left;
+    height:800px;
+    width:800px;
+}
+#reg-fields{
+    right:10%;
+    top:5%;
+    position:absolute;
+}
+#reg-name{
+    width:400px;
+    height:40px;
+}
+#welc{
+    font-size: 50px;;
+}
+#reg-logo{
+    width:220px;
+    height:100px;
+ right:10%;
+ position:absolute;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+   -webkit-appearance: none;
+}
